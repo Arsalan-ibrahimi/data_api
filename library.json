@@ -548,7 +548,18 @@
     "category": "AI",
     "description": "LLM Chat Interface for deepseek"
       
+     },
+
+     {
+    "dialName": "Mock Rocket",
+    "dialLink": "https://mockrocket.io/",
+    "category": "Mockups",
+    "description": "Library of animated mockups"
+      
      }
+
+
+
      
 
        
