@@ -541,7 +541,15 @@
     "category": "media",
     "description": "video sharing platform"
 }
-
+,
+     {
+    "dialName": "Deep Seek AI",
+    "dialLink": "https://www.deepseek.com/",
+    "category": "AI",
+    "description": "LLM Chat Interface for deepseek"
+      
+     }
+     
 
        
     ]
