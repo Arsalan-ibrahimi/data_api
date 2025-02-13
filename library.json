@@ -556,7 +556,57 @@
     "category": "Mockups",
     "description": "Library of animated mockups"
       
+     },
+      {
+    "dialName": "Spectrums",
+    "dialLink": "https://spectrums.framer.website/",
+    "category": "Design",
+    "description": "Library of vector shapes"
+      
+     },
+      {
+    "dialName": "Animated Icons",
+    "dialLink": "https://icons.pqoqubbw.dev/",
+    "category": "Dev",
+    "description": "Library of animated Icons"
+      
      }
+
+     ,
+      {
+    "dialName": "Bespoke",
+    "dialLink": "https://markdalgleish.com/projects/bespoke.js/",
+    "category": "Dev",
+    "description": "Carousal Collection"
+      
+     }
+
+     ,
+      {
+    "dialName": "Origin Ui",
+    "dialLink":" https://originui.com/",
+    "category": "Dev",
+    "description": "React Tailwind component library"
+      
+     }
+      ,
+      {
+    "dialName": "Viewport Ui",
+    "dialLink":" https://viewport-ui.design/",
+    "category": "Design",
+    "description": "Design Inspiration"
+      
+     },
+       {
+    "dialName": "Relume AI",
+    "dialLink":" https://www.relume.io/",
+    "category": "AI",
+    "description": "UI Generation"
+      
+     }
+
+
+
 
 
 
